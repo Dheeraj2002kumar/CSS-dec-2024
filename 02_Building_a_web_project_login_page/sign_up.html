@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign up</title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .card {
+            background-color: aliceblue;
+            border-radius: 8px;
+            padding: 30px;
+            width: 300px;
+        }
+
+        h2 {
+            color: rgb(49, 243, 0);
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            ;
+        }
+
+        input {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid black;
+            background-color: #e4e0e0;
+        }
+
+        label {
+            display: flex;
+            flex-direction: row;
+
+        }
+
+        button {
+            font-weight: bold;
+            color: #fff;
+            background-color: rgb(144, 236, 5);
+            padding: 10px;
+            border-radius: 8px;
+            border: none;
+        }
+
+        button:hover {
+            background-color: green;
+        }
+
+        #name {
+            width: 50%;
+            margin-right: 10px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="card">
+        <form>
+
+            <h2>Sign up</h2>
+            <input type="email" placeholder="Email">
+            <label for="name">
+                <input type="text" placeholder="First name" id="name">
+                <input type="text" placeholder="Last name" id="name">
+            </label>
+            <input type="password" name="" id="" placeholder="Password">
+            <button type="submit">Sign up</button>
+        </form>
+
+    </div>
+
+</body>
+
+</html>
