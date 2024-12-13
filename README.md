@@ -4,3 +4,4 @@
 - Building a web project - Login page
 - Master on CSS selectors
 - Box model, inline and block elements
+- Navbar project with Pseudo element
