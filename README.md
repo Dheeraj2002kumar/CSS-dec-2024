@@ -7,3 +7,4 @@
 - Navbar project with Pseudo element
 - Twitter style navbar in css
 - Dropdown navbars and pointers
+- Build a custom coming soon template Project
