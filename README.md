@@ -6,3 +6,4 @@
 - Box model, inline and block elements
 - Navbar project with Pseudo element
 - Twitter style navbar in css
+- Dropdown navbars and pointers
