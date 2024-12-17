@@ -13,3 +13,4 @@
 - Grid Masterclass
 - Assignment to build cards
 - Breakpoints for mobile tablet and web
+- Hands on Bootstrap integration
