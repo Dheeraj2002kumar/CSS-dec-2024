@@ -14,3 +14,5 @@
 - Assignment to build cards
 - Breakpoints for mobile tablet and web
 - Hands on Bootstrap integration
+- Assignment - Build a complete page with this design
+- Hand-on-CSS Challenges
